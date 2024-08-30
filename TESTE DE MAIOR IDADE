@@ -8,9 +8,9 @@ programa {
    escreva("Maior de idade")
    }senao{
       se(idade >=12){
-        escreva("voce é Adolescente")
+        escreva("voce Ã© Adolescente")
     }senao{
-      escreva("voce é criança")
+      escreva("voce Ã© crianÃ§a")
     }
    }
    }
